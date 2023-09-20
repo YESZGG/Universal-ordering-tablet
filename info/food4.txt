@@ -1,0 +1,4 @@
+珍珠奶茶,50,10.0,0,./image/food4_1.bmp
+冰镇柠檬,50,7.5,0,./image/food4_2.bmp
+牛奶,50,4.5,0,./image/food4_3.bmp
+橙汁,50,7.9,0,./image/food4_4.bmp

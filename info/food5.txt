@@ -1,0 +1,4 @@
+牛肉拉面,20,12.0,0,./image/food5_1.bmp
+葱油拌面,20,9.50,0,./image/food5_2.bmp
+豚骨拉面,20,16.5,0,./image/food5_3.bmp
+海鲜拉面,20,16.0,0,./image/food5_4.bmp

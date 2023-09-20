@@ -1,0 +1,4 @@
+惠林顿牛排,10,65.8,0,./image/food3_1.bmp
+麻辣小龙虾,10,45.50,0,./image/food3_2.bmp
+烧鸡,10,46.5,0,./image/food3_3.bmp
+糖醋排骨,10,40.5,0,./image/food3_4.bmp

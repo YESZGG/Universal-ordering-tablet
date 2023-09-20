@@ -1,0 +1,5 @@
+鱼香肉丝,10,100.0,0,./image/food1_1.bmp
+宫保鸡丁,10,50.0,0,./image/food1_2.bmp
+水煮鱼,10,100.0,0,./image/food1_3.bmp
+佛跳墙,10,159.9,0,./image/food1_4.bmp
+中华叉烧包,10,13.9,0,./image/food1_5.bmp
